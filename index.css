@@ -1,0 +1,15 @@
+li {
+    list-style-type: none;
+}
+
+li.selected {
+    list-style-type: ">  ";
+}
+
+body {
+    background-color: #340d23;
+    color: white;
+    font-family: "Indie Flower", cursive;
+    font-size: 30pt;
+    margin: 2em;
+}
